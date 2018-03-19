@@ -1,0 +1,13 @@
+{
+  "ART_LOCAL_ROOT":"C:\\Users\\iam\\Documents\\Artella",
+  "map":{
+    "oldpath":"newpath",
+    "oldpath2":"newpath2",
+    "oldpath3":"newpath3"
+  },
+  "update":{
+    "rigname",
+    "rigname2",
+    "rigname3"
+  }
+}
