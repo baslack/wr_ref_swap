@@ -1,13 +1,15 @@
 {
   "ART_LOCAL_ROOT":"C:\\Users\\iam\\Documents\\Artella",
-  "map":{
-    "oldpath":"newpath",
-    "oldpath2":"newpath2",
-    "oldpath3":"newpath3"
+  "project-id":"23c81e21-5c4c-4481-b24c-3918fd10499e",
+  "file":{
+      "rig_name":"rig_file",
+      "Martin":"Martin.ma"
   },
-  "update":{
-    "rigname",
-    "rigname2",
-    "rigname3"
-  }
+  "map":{
+    "old_rig":"new_rig"
+  },
+  "update":[
+    "rig_name",
+    "Martin"
+  ]
 }
